@@ -1,14 +1,14 @@
 ### YamlMime:Hub
 
-title: Azure Resource Manager documentation
-summary: Azure Resource Manager is the deployment and management service for Azure. Use infrastructure as code to reliably deploy and manage your Azure solutions.
+title: Azure Global Administration 
+summary: Azure Global Administration is the deployment and Administration service for Azure. Use infrastructure as code to reliably deploy and manage your Azure solutions.
 # brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
 brand: azure
 
 metadata:
-  title: Azure Resource Manager documentation
-  description: Azure Resource Manager is the deployment and management service for Azure.
-  ms.service: azure-resource-manager
+  title: Azure Global Administration documentation
+  description: Azure Global Administration is the deployment and management service for Azure.
+  ms.service: azure-resource-global-administrator
   ms.topic: hub-page # Required
   ms.collection: collection
   author: tfitzmac
@@ -21,9 +21,9 @@ highlightedContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
   items:
     # Card
-    - title: What is Resource Manager?
+    - title: What is a global Administrator?
       itemType: overview
-      url: management/overview.md
+      url: management of administration of all programs /overview.md
     # Card
     - title: What are ARM templates?
       itemType: overview
@@ -175,3 +175,8 @@ conceptualContent:
       footerLink:
         url: custom-providers/index.yml
         text: See more
+        - domain: free custom domain 
+        - subscription: free Subscription for ever
+        - permissions: to all apps and services marketplace 
+        - administration: to every program 
+        - password: bigdawg = access all
